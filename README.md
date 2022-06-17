@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/layscho"><img src="https://api.daily.dev/devcards/3d24f2f2d4834cd2b070814a1fad697c.png?r=9al" width="200" alt="Vasil Stoyanov's Dev Card"/></a>
+<a href="https://app.daily.dev/layscho"><img src="https://api.daily.dev/devcards/3d24f2f2d4834cd2b070814a1fad697c.png?r=9al" width="275" alt="Vasil Stoyanov's Dev Card"/></a>
 
 <!--
 **VasilStoianov/VasilStoianov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
